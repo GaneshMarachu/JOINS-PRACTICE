@@ -12,9 +12,6 @@ DURATION: 6 WEEEKS
 
 MENTOR: NEELA SANTOSH
 
-Perfect. Here's the updated version with the correct title:
-
-
 ## JOINS PRACTICE – Task 1
 
 This task involved working with structured data using SQL to simulate a basic relational database system. The objective was to create two related tables, insert sample data into them, and perform various types of JOIN operations to understand how data from multiple tables can be retrieved and combined in different scenarios.
