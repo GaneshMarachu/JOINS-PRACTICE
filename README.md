@@ -40,7 +40,11 @@ Overall, this JOINS PRACTICE task gave me a strong foundation in working with re
 
 
 output:
+inner join
 ![Image](https://github.com/user-attachments/assets/49370063-2140-44b5-ba50-2238f29efdc3)[](url)
+left join
 ![Image](https://github.com/user-attachments/assets/039bb1e7-8d04-4f4c-9888-b580b9b36e1e)
-
+right join
+![Image](https://github.com/user-attachments/assets/8fe21f84-f53e-4fe2-ac37-ffbf6b5a7516)
+full join
 ![Image](https://github.com/user-attachments/assets/ae9dc802-2473-41de-b9ee-d3809268de61)
