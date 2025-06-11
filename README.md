@@ -42,4 +42,5 @@ Overall, this JOINS PRACTICE task gave me a strong foundation in working with re
 output:
 ![Image](https://github.com/user-attachments/assets/49370063-2140-44b5-ba50-2238f29efdc3)[](url)
 ![Image](https://github.com/user-attachments/assets/039bb1e7-8d04-4f4c-9888-b580b9b36e1e)
-![Image](https://github.com/user-attachments/assets/039bb1e7-8d04-4f4c-9888-b580b9b36e1e)
+
+![Image](https://github.com/user-attachments/assets/ae9dc802-2473-41de-b9ee-d3809268de61)
