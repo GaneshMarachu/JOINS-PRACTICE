@@ -37,3 +37,7 @@ This task was extremely valuable in terms of learning and practical exposure. It
 In real-world scenarios, such concepts are applied in virtually every database-driven application — whether it's an e-commerce platform showing user orders, a CRM displaying customer interactions, or a financial system linking users to their transaction records. Knowing how to efficiently use JOINs allows developers and analysts to write optimized queries, improve performance, and ensure accurate data reporting.
 
 Overall, this JOINS PRACTICE task gave me a strong foundation in working with relational databases, setting the stage for more advanced operations like aggregations, nested queries, views, and stored procedures in future tasks.
+
+
+output:
+![Image](https://github.com/user-attachments/assets/49370063-2140-44b5-ba50-2238f29efdc3)[](url)
