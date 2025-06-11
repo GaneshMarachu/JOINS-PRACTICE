@@ -14,7 +14,6 @@ MENTOR: NEELA SANTOSH
 
 Perfect. Here's the updated version with the correct title:
 
----
 
 ## JOINS PRACTICE – Task 1
 
